@@ -1,0 +1,68 @@
+body {
+    height: 1000px;
+}
+
+.container-2 {
+    background: #ffffff;
+    clear: both;
+    border: solid #dddddd;
+    margin-top: 25px;
+    height: 780px;
+    width: 500px;
+}
+
+.bio-title {
+    color: #4aaaa5;
+    clear: both;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: solid lightgray;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.box-1 {
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 40%;
+}
+.box-2 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.box-3 {
+    float:left;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 40%;
+}
+
+.box-4 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.box-5 {
+    float:left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.container-4 {
+   position: relative;
+   text-align: center;
+}
+
+.text {
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    background: #4aaaa5;
+    height: 30px;
+    padding-top: 10px;
+}

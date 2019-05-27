@@ -1,0 +1,47 @@
+.container-2 {
+    background: #ffffff;
+    clear: both;
+    border: solid #dddddd;
+    margin-top: 25px;
+    height: 300px;
+    width: 65%;
+}
+
+.bio-title {
+    color: #4aaaa5;
+    clear: both;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: solid lightgray;
+    padding-left: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.form-group {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Arial, 'Helvetica nuue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+.name {
+    width: 99%;
+}
+
+.email {
+    width: 99%;
+}
+
+.message {
+    width: 99%;
+    height: 50px;
+    border-color:lightgray;
+   
+}
+
+.submit {
+    font-family: Arial, 'Helvetica nuue', Helvetica, sans-serif;
+    color: #ffffff;
+    background: #4aaaa5;
+    padding: 5px;
+}
