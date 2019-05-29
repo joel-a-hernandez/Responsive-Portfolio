@@ -120,3 +120,46 @@ a {
     padding-right: 150px;
     height: 100%;
 }
+@media screen and (max-width: 980px) {
+    .a-group {
+        padding-right: 0px;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .container-1 {
+        padding-left: 20px;
+    }
+    .a-group {
+        padding-right: 0px;
+    }
+    .background-image {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+}
+@media screen and (max-width: 640px) {
+   .background-image {
+    padding-bottom: 300px;
+    padding-left: 5%;
+    height: 100%;
+    padding-right: 5%;
+   } 
+   .a-group {
+       text-align: center;
+       margin: 12px;
+       clear: both;
+       float: none;
+       margin-left: 9%;
+   }
+   .header-title {
+       width: 100%;
+       text-align: center;
+       padding-right: 0px;
+   }
+   .container-1 {
+       padding-left: 0;
+   }
+
+}

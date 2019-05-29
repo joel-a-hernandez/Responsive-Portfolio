@@ -66,3 +66,46 @@ body {
     height: 30px;
     padding-top: 10px;
 }
+@media screen and (max-width:768px) {
+    .container-2 {
+        width: auto;
+    }
+    .text-1,.text-3 {
+        width: 70%;
+        margin-left: 15%;
+    }
+    .box-5 {
+        margin-left: 85px;
+    }
+    .box-2,.box-4{
+        margin-left: 90px;
+    }
+}
+@media screen and (max-width: 640px) {
+    .container-2 {
+        height: 1950px;
+    }
+    .box-1,.box-2,.box-3,.box-4,.box-5 {
+        margin-left: 0px;
+        margin-left: 20%;
+    }
+    .background-image {
+        margin-bottom: 50px;
+    }
+    .container-4 {
+        text-align: left;
+    }
+    .img,.text {
+        width: 150%;
+        margin-left: auto;
+    }
+    .background-image {
+        padding-bottom: 1150px;
+    }
+    .img-2,.img-4,.img-5 {
+        width: 170%;
+    }
+    .text-2,.text-4,.text-5 {
+        width: 170%;
+    }
+    }
